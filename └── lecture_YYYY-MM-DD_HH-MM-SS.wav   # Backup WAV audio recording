@@ -1,0 +1,4 @@
+
+### Transcript Format
+The generated transcript includes standard header metadata, live timestamped lines, and a closing footer upon termination:
+
