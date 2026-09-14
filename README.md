@@ -6,7 +6,7 @@ This tool captures audio from continuous live sources—such as university lectu
 
 ---
 
-## Technical Architecture & Design
+## Installation
 
-`transcribe.py` utilizes a decoupled, multithreaded architecture designed to handle real-time streaming without dropping audio frames or stalling live recording during heavy inference tasks.
+Install the required Python dependencies:
 
