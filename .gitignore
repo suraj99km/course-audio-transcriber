@@ -1,0 +1,48 @@
+.aider*
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Conda
+.conda/
+
+# Course transcripts / recordings
+CourseTranscripts/*
+!CourseTranscripts/.gitkeep
+
+# Audio
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+
+# Video
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
